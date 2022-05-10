@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/itouisaoichi/Desktop/git/sample_java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1184758072.index
+1007625676.index
+118124711.index
+1652160574.index
